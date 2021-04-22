@@ -2103,3 +2103,9 @@ Total: 3.230300 ms (FindLiveObjects: 0.298800 ms CreateObjectMapping: 0.161000 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1519.608448 seconds.
+  path: Assets/feedControler.cs
+  artifactKey: Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/feedControler.cs using Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ac3209547479fdb68f1900e3d08461') in 0.011636 seconds 
