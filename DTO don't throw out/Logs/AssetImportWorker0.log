@@ -669,3 +669,27 @@ Received Import Request.
   path: Assets/shopbox/Aldi.prefab
   artifactKey: Guid(b4678dc7bc1ca544a99a5d7c436b7b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/shopbox/Aldi.prefab using Guid(b4678dc7bc1ca544a99a5d7c436b7b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8fd6a8ff5bca59125dcaf4966061e1') in 0.008946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.212188 seconds.
+  path: Assets/Logos and Icons/Føtex logo.png
+  artifactKey: Guid(439fa0374de14294590517bc0d76eb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Føtex logo.png using Guid(439fa0374de14294590517bc0d76eb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4029773bd9b4e0de9bb233e5b46fcd') in 0.050040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Logos and Icons/Netto logo.png
+  artifactKey: Guid(dfe00f7c34c0b42428041988adbac64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Netto logo.png using Guid(dfe00f7c34c0b42428041988adbac64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974402e39bb8ac5b1ab577b946defe35') in 0.021543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.262129 seconds.
+  path: Assets/shopbox/Føtex.prefab
+  artifactKey: Guid(da1db91d322a24e44bdf8b17dce1be26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Føtex.prefab using Guid(da1db91d322a24e44bdf8b17dce1be26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b84146301fbf509a0ec0cdebc630ad4') in 0.009156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.353835 seconds.
+  path: Assets/shopbox/Netto.prefab
+  artifactKey: Guid(a14ee124e1bf2334480aa4a1d08c6e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Netto.prefab using Guid(a14ee124e1bf2334480aa4a1d08c6e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f99adf4317bfa95226c846112b5f8a') in 0.014415 seconds 
