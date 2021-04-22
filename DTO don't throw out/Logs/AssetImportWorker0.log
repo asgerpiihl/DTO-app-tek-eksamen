@@ -336,3 +336,218 @@ Received Import Request.
   path: Assets/start scripts
   artifactKey: Guid(498f61bd499d84e42b9d665f1ff250a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/start scripts using Guid(498f61bd499d84e42b9d665f1ff250a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfce2d21d7b40793a03ae38e13d44ac') in 0.021138 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.072 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.0 MB.
+System memory in use after: 97.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 4.382700 ms (FindLiveObjects: 0.310100 ms CreateObjectMapping: 0.088500 ms MarkObjects: 3.956200 ms  DeleteObjects: 0.026100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 106.851271 seconds.
+  path: Assets/shopbox/Kvickly.prefab
+  artifactKey: Guid(a761d2ccfc4b8bd4bbce5e8648e60f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Kvickly.prefab using Guid(a761d2ccfc4b8bd4bbce5e8648e60f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93a15958ac2b2b0662962d34f49303d') in 0.092216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/shopbox/Rema1000.prefab
+  artifactKey: Guid(84a6fa1e2986d144d9c1a4900e3d98af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Rema1000.prefab using Guid(84a6fa1e2986d144d9c1a4900e3d98af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e91148ab9d46643ad9c1a825b7ed5d') in 0.021696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/shopbox/Netto.prefab
+  artifactKey: Guid(a14ee124e1bf2334480aa4a1d08c6e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Netto.prefab using Guid(a14ee124e1bf2334480aa4a1d08c6e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e798d0e114d34f2bd6c45540a72e42fb') in 0.018771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/shopbox/Irma.prefab
+  artifactKey: Guid(8d737eae3d2f7d846bc98e6c821217bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Irma.prefab using Guid(8d737eae3d2f7d846bc98e6c821217bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b7581b22d8aff503ef1582ed134206') in 0.018906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/shopbox/Føtex.prefab
+  artifactKey: Guid(da1db91d322a24e44bdf8b17dce1be26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Føtex.prefab using Guid(da1db91d322a24e44bdf8b17dce1be26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c63d57e440b7caae7e6debe4ceab337') in 0.015492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/shopbox
+  artifactKey: Guid(ac05c38d01e0d5841b56cad6a6f5b4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox using Guid(ac05c38d01e0d5841b56cad6a6f5b4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105c71abdc360eaff21c6e40b0c100bf') in 0.014127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/shopbox/Lidl.prefab
+  artifactKey: Guid(911eed3849125e94c9c413cf620b54fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Lidl.prefab using Guid(911eed3849125e94c9c413cf620b54fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e3ea5bdad6f5a1785f2f5aea3ae13e') in 0.017149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/shopbox/Fakta.prefab
+  artifactKey: Guid(f5f2c72953d81124f8d73a70672a6495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Fakta.prefab using Guid(f5f2c72953d81124f8d73a70672a6495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6df7012ad55a674a8be90eae7eb5d08') in 0.017605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/shopbox/Aldi.prefab
+  artifactKey: Guid(b4678dc7bc1ca544a99a5d7c436b7b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/Aldi.prefab using Guid(b4678dc7bc1ca544a99a5d7c436b7b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669e3492e53bb26bde30d3aef6136bf3') in 0.017404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.290138 seconds.
+  path: Assets/shopbox/shopboxControler.cs
+  artifactKey: Guid(62d01f2ca5a663b4b8a3e0b34e8cbec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shopbox/shopboxControler.cs using Guid(62d01f2ca5a663b4b8a3e0b34e8cbec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245753fb6b3ac98675b2e4f255d4b4d3') in 0.032957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.453135 seconds.
+  path: Assets/feedControler.cs
+  artifactKey: Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/feedControler.cs using Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f1f52d771ea1dd13fc65fba0b0810e') in 0.014809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 251.506084 seconds.
+  path: Assets/Logos and Icons/Logos/Aldi logo.png
+  artifactKey: Guid(18b4c37f46034104daf8d16495342d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Aldi logo.png using Guid(18b4c37f46034104daf8d16495342d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56567e30bcb2bfb4ea89a247521f149') in 0.095911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Logos and Icons/Logos/applogo.png
+  artifactKey: Guid(f466d3fe9f61fef4b85f67c9228b94b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/applogo.png using Guid(f466d3fe9f61fef4b85f67c9228b94b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30710310d6220a5c6288c6931c1bd758') in 0.045862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Logos and Icons/Logos/Fakta logo.png
+  artifactKey: Guid(316e97719dcf4e34083aaeee794106d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Fakta logo.png using Guid(316e97719dcf4e34083aaeee794106d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2cd1abb6c401611ea0f9715e81d7972') in 0.028904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Logos and Icons/Logos/Irma logo.png
+  artifactKey: Guid(2a47ab964ecd2f148865dd4121b3ee94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Irma logo.png using Guid(2a47ab964ecd2f148865dd4121b3ee94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c0ecd209de6238993e57c30bf83361b') in 0.033783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Logos and Icons/Logos/Lidl logo.png
+  artifactKey: Guid(a5ceee536cb93894c92d9d3f362631fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Lidl logo.png using Guid(a5ceee536cb93894c92d9d3f362631fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e01a9b0be1197b05088cc0a0a4f2f7') in 0.033677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Logos and Icons/Logos/Kvickly logo.png
+  artifactKey: Guid(3ddcbdfcc06c6c5489fe0b74f4d60571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Kvickly logo.png using Guid(3ddcbdfcc06c6c5489fe0b74f4d60571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c8e08489a2506c927be19af959374c') in 0.026988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Logos and Icons/Logos/Netto logo.png
+  artifactKey: Guid(dfe00f7c34c0b42428041988adbac64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Netto logo.png using Guid(dfe00f7c34c0b42428041988adbac64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfaa33f1775ceb8c8bce558b0e1ee26') in 0.029688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Logos and Icons/Logos/Rema logo.png
+  artifactKey: Guid(16fae3ff50ae4ed498fd58892611976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Rema logo.png using Guid(16fae3ff50ae4ed498fd58892611976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec21747b7756d1af0026ce94ea1af1f') in 0.033740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000819 seconds.
+  path: Assets/Logos and Icons/Logos/LogoTrans.png
+  artifactKey: Guid(71587830952cc244499546200d399a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/LogoTrans.png using Guid(71587830952cc244499546200d399a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903dd5866b35209dc71861ed282d4aa6') in 0.039445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Logos and Icons/Logos/Føtex logo.png
+  artifactKey: Guid(439fa0374de14294590517bc0d76eb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logos and Icons/Logos/Føtex logo.png using Guid(439fa0374de14294590517bc0d76eb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26af1addb0ec01760504211bd333469c') in 0.030338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 735.389301 seconds.
+  path: Assets/RandomShopGenerator.cs
+  artifactKey: Guid(970667f09e7cdd14aadf436438aaee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RandomShopGenerator.cs using Guid(970667f09e7cdd14aadf436438aaee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc9f2faf90756e8f0f46f8c982b6597') in 0.015892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.583657 seconds.
+  path: Assets/RandomShopGenerator.cs
+  artifactKey: Guid(970667f09e7cdd14aadf436438aaee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RandomShopGenerator.cs using Guid(970667f09e7cdd14aadf436438aaee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786d0fa0dd9db998acff37f53be4323a') in 0.004750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 857.773710 seconds.
+  path: Assets/Scenes/addCard.unity
+  artifactKey: Guid(02f388de1894aaf40b727a6e4583f5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/addCard.unity using Guid(02f388de1894aaf40b727a6e4583f5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef755f355a9ccb12082e212a8634d04a') in 0.018899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.955335 seconds.
+  path: Assets/Scenes/main.unity
+  artifactKey: Guid(a78c169c7a4be414a8113a9d34c01c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/main.unity using Guid(a78c169c7a4be414a8113a9d34c01c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856e6272a2b7d5a2e12f581452ec3323') in 0.014889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.564291 seconds.
+  path: Assets/Scenes/OMos.unity
+  artifactKey: Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OMos.unity using Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f442ce141b2b9dcf0bf7f096546d2c5') in 0.014727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.039587 seconds.
+  path: Assets/Scenes/Om os.unity
+  artifactKey: Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Om os.unity using Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69cb97e959ba79369a911b38f7bdfc5b') in 0.014910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 517.249778 seconds.
+  path: Assets/Scenes/Om os.unity
+  artifactKey: Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Om os.unity using Guid(8621782957179604f952ac30ad341082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b038e893c3d4970f8f603144a24acc85') in 0.008567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.470986 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27aac0bbf59007368011a068f78e0e1e') in 0.020818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.469894 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c802cb55ec64cded7de9503cbf5c922') in 0.006050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 774.406027 seconds.
+  path: Assets/button.cs
+  artifactKey: Guid(251193e806981be41bab7b0cb6706ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/button.cs using Guid(251193e806981be41bab7b0cb6706ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81da9c6244ef00cf8ec512d3e8140044') in 0.023680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.982227 seconds.
+  path: Assets/feedControler.cs
+  artifactKey: Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/feedControler.cs using Guid(1668169465a580a4ca39761d4e4c79d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a31bd4eae82de11b000a9b044ef357f') in 0.008226 seconds 
