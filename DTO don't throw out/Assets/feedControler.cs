@@ -40,11 +40,13 @@ public class feedControler : MonoBehaviour
                 string UserCity = User + "City";
                 ToValue = PlayerPrefs.GetString(UserCity);
                 City.text = ToValue;
+                PlayerPrefs.SetString("City", ToValue);
             }
             else
             {
                 City.text = SearchBar.text;
                 ToValue = SearchBar.text;
+                PlayerPrefs.SetString("City", ToValue);
                 GetValue();
             }
         }
@@ -71,28 +73,5 @@ public class feedControler : MonoBehaviour
             Value = Random.Range(1, 10);
             print(Value);
         }
-    }
-    void CreateFeed()
-    {
-        //shop_1 yPos 500
-        GameObject shop_1 = Instantiate(Føtex);
-        shop_1.transform.parent = Shoplist.transform;
-        shop_1.transform.localScale = new Vector3(1, 1, 1);
-        shop_1.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, 500, 0);
-        //shop_2 yPos 150
-        GameObject shop_2 = Instantiate(Kvickly);
-        shop_2.transform.parent = Shoplist.transform;
-        shop_2.transform.localScale = new Vector3(1, 1, 1);
-        shop_2.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, 150, 0);
-        //shop_3 yPos -200
-        GameObject shop_3 = Instantiate(Rema);
-        shop_3.transform.parent = Shoplist.transform;
-        shop_3.transform.localScale = new Vector3(1, 1, 1);
-        shop_3.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, -200, 0);
-        //shop_1 yPos -550
-        GameObject shop_4 = Instantiate(Fakta);
-        shop_4.transform.parent = Shoplist.transform;
-        shop_4.transform.localScale = new Vector3(1, 1, 1);
-        shop_4.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, -550, 0);
     }
 }
