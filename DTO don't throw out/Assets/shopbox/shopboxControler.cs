@@ -9,6 +9,8 @@ public class shopboxControler : MonoBehaviour
     private int ItemLeft;
     //text
     public Text ItemText;
+    //shopname
+    public GameObject Shop;
     // Start is called before the first frame update
     void Awake()
     {
@@ -34,5 +36,6 @@ public class shopboxControler : MonoBehaviour
     public void LoadShop()
     {
         PlayerPrefs.SetInt("Items", ItemLeft);
+        PlayerPrefs.SetString("Shop", Shop.name);
     }
 }
