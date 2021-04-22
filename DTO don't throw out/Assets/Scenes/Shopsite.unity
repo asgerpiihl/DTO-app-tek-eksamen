@@ -1006,6 +1006,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e52f4a74b047a3949965f409de651613, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "F\xF8tex": {fileID: 21300000, guid: 439fa0374de14294590517bc0d76eb8b, type: 3}
+  Kvickly: {fileID: 21300000, guid: 3ddcbdfcc06c6c5489fe0b74f4d60571, type: 3}
+  Netto: {fileID: 21300000, guid: dfe00f7c34c0b42428041988adbac64e, type: 3}
+  Aldi: {fileID: 21300000, guid: 18b4c37f46034104daf8d16495342d0c, type: 3}
+  Rema: {fileID: 21300000, guid: 16fae3ff50ae4ed498fd58892611976d, type: 3}
+  Irma: {fileID: 21300000, guid: 2a47ab964ecd2f148865dd4121b3ee94, type: 3}
+  Lidl: {fileID: 21300000, guid: a5ceee536cb93894c92d9d3f362631fd, type: 3}
+  Fakta: {fileID: 21300000, guid: 316e97719dcf4e34083aaeee794106d2, type: 3}
+  City: {fileID: 1144048452}
+  Logo: {fileID: 966075796}
 --- !u!4 &1181633531
 Transform:
   m_ObjectHideFlags: 0

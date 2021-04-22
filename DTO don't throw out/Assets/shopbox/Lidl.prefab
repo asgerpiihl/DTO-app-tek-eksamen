@@ -120,7 +120,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6684081773502613242}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4493681938257356066}
+        m_TargetAssemblyTypeName: shopboxControler, Assembly-CSharp
+        m_MethodName: LoadShop
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &3559920028248938594
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -261,5 +273,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4493681938257356066 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1097650762461789504, guid: 09d04bce67214764494b4c60ac24590c, type: 3}
+  m_PrefabInstance: {fileID: 3559920028248938594}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d01f2ca5a663b4b8a3e0b34e8cbec7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

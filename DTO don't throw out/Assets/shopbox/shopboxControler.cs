@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class shopboxControler : MonoBehaviour
 {
@@ -37,6 +38,7 @@ public class shopboxControler : MonoBehaviour
     {
         PlayerPrefs.SetInt("Items", ItemLeft);
         PlayerPrefs.SetString("Shop", Shop.name);
+        SceneManager.LoadScene("Shopsite");
     }
     private void Update()
     {
