@@ -38,4 +38,11 @@ public class shopboxControler : MonoBehaviour
         PlayerPrefs.SetInt("Items", ItemLeft);
         PlayerPrefs.SetString("Shop", Shop.name);
     }
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            Destroy(Shop, 0.01f);
+        }
+    }
 }
