@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class shopboxControler : MonoBehaviour
 {
+    //name
+    public GameObject Shop;
     //items left
     private int ItemLeft;
     //text
@@ -34,5 +36,13 @@ public class shopboxControler : MonoBehaviour
     public void LoadShop()
     {
         PlayerPrefs.SetInt("Items", ItemLeft);
+        PlayerPrefs.SetString("Shop", Shop.name);
+    }
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            Destroy(Shop, 0.01f);
+        }
     }
 }
