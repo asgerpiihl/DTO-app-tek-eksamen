@@ -129,10 +129,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 7394513679656985990}
     m_Modifications:
     - target: {fileID: 1097650762461789504, guid: 09d04bce67214764494b4c60ac24590c, type: 3}
-      propertyPath: Shop
-      value: 
-      objectReference: {fileID: 4689987797558819682}
-    - target: {fileID: 1097650762461789504, guid: 09d04bce67214764494b4c60ac24590c, type: 3}
       propertyPath: ItemText
       value: 
       objectReference: {fileID: 106124980349648656}
