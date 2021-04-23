@@ -166,7 +166,7 @@ public class feedControler : MonoBehaviour
         else if (Value == 4)
         {
             //shop_1 yPos 500
-            GameObject shop_1 = Instantiate(Irma);
+            GameObject shop_1 = Instantiate(Bilka);
             shop_1.name = "Irma";
             shop_1.transform.parent = Shoplist.transform;
             shop_1.transform.localScale = new Vector3(1, 1, 1);
@@ -199,7 +199,7 @@ public class feedControler : MonoBehaviour
             shop_1.transform.localScale = new Vector3(1, 1, 1);
             shop_1.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, 500, 0);
             //shop_2 yPos 150
-            GameObject shop_2 = Instantiate(Irma);
+            GameObject shop_2 = Instantiate(Bilka);
             shop_2.name = "Irma";
             shop_2.transform.parent = Shoplist.transform;
             shop_2.transform.localScale = new Vector3(1, 1, 1);
@@ -220,7 +220,7 @@ public class feedControler : MonoBehaviour
         else if (Value == 6)
         {
             //shop_1 yPos 500
-            GameObject shop_1 = Instantiate(Irma);
+            GameObject shop_1 = Instantiate(Bilka);
             shop_1.name = "Irma";
             shop_1.transform.parent = Shoplist.transform;
             shop_1.transform.localScale = new Vector3(1, 1, 1);
@@ -247,7 +247,7 @@ public class feedControler : MonoBehaviour
         else if (Value == 7)
         {
             //shop_1 yPos 500
-            GameObject shop_1 = Instantiate(Irma);
+            GameObject shop_1 = Instantiate(Bilka);
             shop_1.name = "Irma";
             shop_1.transform.parent = Shoplist.transform;
             shop_1.transform.localScale = new Vector3(1, 1, 1);
@@ -280,7 +280,7 @@ public class feedControler : MonoBehaviour
             shop_1.transform.localScale = new Vector3(1, 1, 1);
             shop_1.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, 500, 0);
             //shop_2 yPos 150
-            GameObject shop_2 = Instantiate(Irma);
+            GameObject shop_2 = Instantiate(Bilka);
             shop_2.name = "Irma";
             shop_2.transform.parent = Shoplist.transform;
             shop_2.transform.localScale = new Vector3(1, 1, 1);
